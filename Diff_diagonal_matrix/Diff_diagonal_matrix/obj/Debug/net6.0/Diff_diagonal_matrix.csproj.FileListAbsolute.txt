@@ -1,0 +1,15 @@
+C:\Users\nish\source\repos\Diff_diagonal_matrix\Diff_diagonal_matrix\bin\Debug\net6.0\Diff_diagonal_matrix.exe
+C:\Users\nish\source\repos\Diff_diagonal_matrix\Diff_diagonal_matrix\bin\Debug\net6.0\Diff_diagonal_matrix.deps.json
+C:\Users\nish\source\repos\Diff_diagonal_matrix\Diff_diagonal_matrix\bin\Debug\net6.0\Diff_diagonal_matrix.runtimeconfig.json
+C:\Users\nish\source\repos\Diff_diagonal_matrix\Diff_diagonal_matrix\bin\Debug\net6.0\Diff_diagonal_matrix.dll
+C:\Users\nish\source\repos\Diff_diagonal_matrix\Diff_diagonal_matrix\bin\Debug\net6.0\ref\Diff_diagonal_matrix.dll
+C:\Users\nish\source\repos\Diff_diagonal_matrix\Diff_diagonal_matrix\bin\Debug\net6.0\Diff_diagonal_matrix.pdb
+C:\Users\nish\source\repos\Diff_diagonal_matrix\Diff_diagonal_matrix\obj\Debug\net6.0\Diff_diagonal_matrix.csproj.AssemblyReference.cache
+C:\Users\nish\source\repos\Diff_diagonal_matrix\Diff_diagonal_matrix\obj\Debug\net6.0\Diff_diagonal_matrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nish\source\repos\Diff_diagonal_matrix\Diff_diagonal_matrix\obj\Debug\net6.0\Diff_diagonal_matrix.AssemblyInfoInputs.cache
+C:\Users\nish\source\repos\Diff_diagonal_matrix\Diff_diagonal_matrix\obj\Debug\net6.0\Diff_diagonal_matrix.AssemblyInfo.cs
+C:\Users\nish\source\repos\Diff_diagonal_matrix\Diff_diagonal_matrix\obj\Debug\net6.0\Diff_diagonal_matrix.csproj.CoreCompileInputs.cache
+C:\Users\nish\source\repos\Diff_diagonal_matrix\Diff_diagonal_matrix\obj\Debug\net6.0\Diff_diagonal_matrix.dll
+C:\Users\nish\source\repos\Diff_diagonal_matrix\Diff_diagonal_matrix\obj\Debug\net6.0\ref\Diff_diagonal_matrix.dll
+C:\Users\nish\source\repos\Diff_diagonal_matrix\Diff_diagonal_matrix\obj\Debug\net6.0\Diff_diagonal_matrix.pdb
+C:\Users\nish\source\repos\Diff_diagonal_matrix\Diff_diagonal_matrix\obj\Debug\net6.0\Diff_diagonal_matrix.genruntimeconfig.cache

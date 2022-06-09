@@ -1,0 +1,15 @@
+C:\Users\nish\source\repos\Revstring\Revstring\bin\Debug\net6.0\Revstring.exe
+C:\Users\nish\source\repos\Revstring\Revstring\bin\Debug\net6.0\Revstring.deps.json
+C:\Users\nish\source\repos\Revstring\Revstring\bin\Debug\net6.0\Revstring.runtimeconfig.json
+C:\Users\nish\source\repos\Revstring\Revstring\bin\Debug\net6.0\Revstring.dll
+C:\Users\nish\source\repos\Revstring\Revstring\bin\Debug\net6.0\ref\Revstring.dll
+C:\Users\nish\source\repos\Revstring\Revstring\bin\Debug\net6.0\Revstring.pdb
+C:\Users\nish\source\repos\Revstring\Revstring\obj\Debug\net6.0\Revstring.csproj.AssemblyReference.cache
+C:\Users\nish\source\repos\Revstring\Revstring\obj\Debug\net6.0\Revstring.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nish\source\repos\Revstring\Revstring\obj\Debug\net6.0\Revstring.AssemblyInfoInputs.cache
+C:\Users\nish\source\repos\Revstring\Revstring\obj\Debug\net6.0\Revstring.AssemblyInfo.cs
+C:\Users\nish\source\repos\Revstring\Revstring\obj\Debug\net6.0\Revstring.csproj.CoreCompileInputs.cache
+C:\Users\nish\source\repos\Revstring\Revstring\obj\Debug\net6.0\Revstring.dll
+C:\Users\nish\source\repos\Revstring\Revstring\obj\Debug\net6.0\ref\Revstring.dll
+C:\Users\nish\source\repos\Revstring\Revstring\obj\Debug\net6.0\Revstring.pdb
+C:\Users\nish\source\repos\Revstring\Revstring\obj\Debug\net6.0\Revstring.genruntimeconfig.cache

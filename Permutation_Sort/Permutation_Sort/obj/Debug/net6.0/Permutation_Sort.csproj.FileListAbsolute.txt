@@ -1,0 +1,15 @@
+C:\Users\nish\source\repos\Permutation_Sort\Permutation_Sort\bin\Debug\net6.0\Permutation_Sort.exe
+C:\Users\nish\source\repos\Permutation_Sort\Permutation_Sort\bin\Debug\net6.0\Permutation_Sort.deps.json
+C:\Users\nish\source\repos\Permutation_Sort\Permutation_Sort\bin\Debug\net6.0\Permutation_Sort.runtimeconfig.json
+C:\Users\nish\source\repos\Permutation_Sort\Permutation_Sort\bin\Debug\net6.0\Permutation_Sort.dll
+C:\Users\nish\source\repos\Permutation_Sort\Permutation_Sort\bin\Debug\net6.0\ref\Permutation_Sort.dll
+C:\Users\nish\source\repos\Permutation_Sort\Permutation_Sort\bin\Debug\net6.0\Permutation_Sort.pdb
+C:\Users\nish\source\repos\Permutation_Sort\Permutation_Sort\obj\Debug\net6.0\Permutation_Sort.csproj.AssemblyReference.cache
+C:\Users\nish\source\repos\Permutation_Sort\Permutation_Sort\obj\Debug\net6.0\Permutation_Sort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nish\source\repos\Permutation_Sort\Permutation_Sort\obj\Debug\net6.0\Permutation_Sort.AssemblyInfoInputs.cache
+C:\Users\nish\source\repos\Permutation_Sort\Permutation_Sort\obj\Debug\net6.0\Permutation_Sort.AssemblyInfo.cs
+C:\Users\nish\source\repos\Permutation_Sort\Permutation_Sort\obj\Debug\net6.0\Permutation_Sort.csproj.CoreCompileInputs.cache
+C:\Users\nish\source\repos\Permutation_Sort\Permutation_Sort\obj\Debug\net6.0\Permutation_Sort.dll
+C:\Users\nish\source\repos\Permutation_Sort\Permutation_Sort\obj\Debug\net6.0\ref\Permutation_Sort.dll
+C:\Users\nish\source\repos\Permutation_Sort\Permutation_Sort\obj\Debug\net6.0\Permutation_Sort.pdb
+C:\Users\nish\source\repos\Permutation_Sort\Permutation_Sort\obj\Debug\net6.0\Permutation_Sort.genruntimeconfig.cache

@@ -1,0 +1,30 @@
+C:\Users\nish\source\repos\Maxchar\Maxchar\obj\Debug\net6.0\Maxchar.csproj.AssemblyReference.cache
+C:\Users\nish\source\repos\Maxchar\Maxchar\obj\Debug\net6.0\Maxchar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nish\source\repos\Maxchar\Maxchar\obj\Debug\net6.0\Maxchar.AssemblyInfoInputs.cache
+C:\Users\nish\source\repos\Maxchar\Maxchar\obj\Debug\net6.0\Maxchar.AssemblyInfo.cs
+C:\Users\nish\source\repos\Maxchar\Maxchar\obj\Debug\net6.0\Maxchar.csproj.CoreCompileInputs.cache
+C:\Users\nish\source\repos\Maxchar\Maxchar\bin\Debug\net6.0\Maxchar.exe
+C:\Users\nish\source\repos\Maxchar\Maxchar\bin\Debug\net6.0\Maxchar.deps.json
+C:\Users\nish\source\repos\Maxchar\Maxchar\bin\Debug\net6.0\Maxchar.runtimeconfig.json
+C:\Users\nish\source\repos\Maxchar\Maxchar\bin\Debug\net6.0\Maxchar.dll
+C:\Users\nish\source\repos\Maxchar\Maxchar\bin\Debug\net6.0\ref\Maxchar.dll
+C:\Users\nish\source\repos\Maxchar\Maxchar\bin\Debug\net6.0\Maxchar.pdb
+C:\Users\nish\source\repos\Maxchar\Maxchar\obj\Debug\net6.0\Maxchar.dll
+C:\Users\nish\source\repos\Maxchar\Maxchar\obj\Debug\net6.0\ref\Maxchar.dll
+C:\Users\nish\source\repos\Maxchar\Maxchar\obj\Debug\net6.0\Maxchar.pdb
+C:\Users\nish\source\repos\Maxchar\Maxchar\obj\Debug\net6.0\Maxchar.genruntimeconfig.cache
+C:\Users\nish\Documents\genc training\Maxchar\Maxchar\bin\Debug\net6.0\Maxchar.exe
+C:\Users\nish\Documents\genc training\Maxchar\Maxchar\bin\Debug\net6.0\Maxchar.deps.json
+C:\Users\nish\Documents\genc training\Maxchar\Maxchar\bin\Debug\net6.0\Maxchar.runtimeconfig.json
+C:\Users\nish\Documents\genc training\Maxchar\Maxchar\bin\Debug\net6.0\Maxchar.dll
+C:\Users\nish\Documents\genc training\Maxchar\Maxchar\bin\Debug\net6.0\ref\Maxchar.dll
+C:\Users\nish\Documents\genc training\Maxchar\Maxchar\bin\Debug\net6.0\Maxchar.pdb
+C:\Users\nish\Documents\genc training\Maxchar\Maxchar\obj\Debug\net6.0\Maxchar.csproj.AssemblyReference.cache
+C:\Users\nish\Documents\genc training\Maxchar\Maxchar\obj\Debug\net6.0\Maxchar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nish\Documents\genc training\Maxchar\Maxchar\obj\Debug\net6.0\Maxchar.AssemblyInfoInputs.cache
+C:\Users\nish\Documents\genc training\Maxchar\Maxchar\obj\Debug\net6.0\Maxchar.AssemblyInfo.cs
+C:\Users\nish\Documents\genc training\Maxchar\Maxchar\obj\Debug\net6.0\Maxchar.csproj.CoreCompileInputs.cache
+C:\Users\nish\Documents\genc training\Maxchar\Maxchar\obj\Debug\net6.0\Maxchar.dll
+C:\Users\nish\Documents\genc training\Maxchar\Maxchar\obj\Debug\net6.0\ref\Maxchar.dll
+C:\Users\nish\Documents\genc training\Maxchar\Maxchar\obj\Debug\net6.0\Maxchar.pdb
+C:\Users\nish\Documents\genc training\Maxchar\Maxchar\obj\Debug\net6.0\Maxchar.genruntimeconfig.cache

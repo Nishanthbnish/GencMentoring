@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Permutation_Sort/1.0.0": {
+        "runtime": {
+          "Permutation_Sort.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Permutation_Sort/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
